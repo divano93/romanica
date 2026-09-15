@@ -5,3 +5,5 @@ ligne 4 utah
 ligne 5 espagne
 ligne 6 portugal
 ligne 7 japon
+ligne 8 ajout 1 LORA
+ligne 9 ajout 2 LORA
